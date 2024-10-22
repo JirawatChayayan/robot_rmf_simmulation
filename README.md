@@ -8,8 +8,11 @@ factories, or any scenario requiring the coordination of multiple robots.
 ---
 
 ## Spacial Thank and credit for original source
-1.[ROBOTIS-GIT/turtlebot3](#https://github.com/ROBOTIS-GIT/turtlebot3/tree/humble-devel)
-2.[open_rmf](#https://github.com/open-rmf) [rmf_demo](#https://github.com/open-rmf/rmf_demos) [rmf_traffic_editor](#https://github.com/open-rmf/rmf_traffic_editor)
+
+1. [ROBOTIS-GIT/turtlebot3](#https://github.com/ROBOTIS-GIT/turtlebot3/tree/humble-devel)
+2. [open_rmf](#https://github.com/open-rmf)
+3. [rmf_demo](#https://github.com/open-rmf/rmf_demos)
+4. [rmf_traffic_editor](#https://github.com/open-rmf/rmf_traffic_editor)
 
 
 ## Table of Contents
