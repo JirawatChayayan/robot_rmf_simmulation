@@ -1,0 +1,57 @@
+{
+  "world_name" : "Custom World",  
+  "valid_task": ["Delivery", "Loop"],
+  "task": {
+    "Delivery": {
+      "option": {
+        "coke": {
+          "pickup_place_name": "pantry",
+          "pickup_dispenser": "coke_dispenser",
+          "dropoff_place_name": "hardware_2",
+          "dropoff_ingestor": "coke_ingestor"
+        }
+      }
+    },
+    "Loop": {
+      "places": [
+        "home1",
+        "home2",
+        "home3",
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g",
+        "h",
+        "i",
+        "j",
+        "k",
+        "l",
+        "m",
+        "n",
+        "o",
+        "p",
+        "q","r","s","t","u","v","w","x","y","z",
+        "2a",
+        "2b",
+        "2c",
+        "2d",
+        "2e",
+        "2f",
+        "2g",
+        "2h",
+        "2i"
+      ]
+    },
+    "Clean": {
+    },
+    "Station": {
+    },
+    "Patrol": {
+    },
+    "Charging": {
+    }
+  }
+}
