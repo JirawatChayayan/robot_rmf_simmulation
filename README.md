@@ -26,3 +26,37 @@ factories, or any scenario requiring the coordination of multiple robots.
 3. **Colcon build system**: ROS 2 development tools like `colcon` are required.
 
 ### Step-by-Step Instructions
+
+**Install ros package as below**
+   ```bash
+    sudo apt install ros-humble-cyclonedds
+    sudo apt install ros-humble-rmf-fleet-msgs
+    sudo apt install ros-humble-cyclonedds
+    sudo apt install ros-humble-rmf-fleet-msgs
+    sudo apt install ros-humble-rmf*
+    sudo apt install ros-humble--ament-python
+    sudo apt install ros-humble-ament-python
+    sudo apt install ros-humble-ament-package 
+    sudo apt install ros-humble-ament-pycodestyle 
+   ```
+**Install python package as below**
+   ```bash
+      pip3 install flask==2.0.1
+      pip3 install Flask-CORS
+      pip3 install Flask-SocketIO==4.3.2
+      pip3 install websockets==13.1
+      pip3 install werkzeug==2.0.2
+   ```
+**Clone this repository to your workspace**
+   ```bash
+      cd <your_ws>/src
+      git clone https://github.com/JirawatChayayan/robot_rmf_simmulation.git .
+   ```
+**Build your workspace**
+   ```bash
+      cd <your_ws>
+      colcon build
+   ```
+
+
+
