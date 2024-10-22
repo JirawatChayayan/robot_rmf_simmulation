@@ -7,28 +7,21 @@ factories, or any scenario requiring the coordination of multiple robots.
 
 ---
 
-## Spacial Thank and credit for original source
-
-1. [ROBOTIS-GIT/turtlebot3](#https://github.com/ROBOTIS-GIT/turtlebot3/tree/humble-devel).
-2. [open_rmf](#https://github.com/open-rmf).
-3. [rmf_demo](#https://github.com/open-rmf/rmf_demos).
-4. [rmf_traffic_editor](#https://github.com/open-rmf/rmf_traffic_editor).
-
 ## Special Thanks and Credit to Original Sources
 
 I would like to extend my gratitude to the following projects and repositories, which have been invaluable resources:
 
-    TurtleBot3 by ROBOTIS-GIT
-    A fantastic resource for ROS-based robot development.
+1. [TurtleBot3 by ROBOTIS-GIT](https://github.com/ROBOTIS-GIT/turtlebot3/tree/humble-devel)  
+   A fantastic resource for ROS-based robot development.
 
-    Open RMF by open_rmf
-    Providing crucial libraries for the development of multi-fleet robotic systems.
+2. [Open RMF by open_rmf](https://github.com/open-rmf)  
+   Providing crucial libraries for the development of multi-fleet robotic systems.
 
-    RMF Demos by open_rmf
-    Offering insightful demonstrations and examples on the use of RMF (Robotics Middleware Framework).
+3. [RMF Demos by open_rmf](https://github.com/open-rmf/rmf_demos)  
+   Offering insightful demonstrations and examples on the use of RMF (Robotics Middleware Framework).
 
-    RMF Traffic Editor by open_rmf
-    A vital tool for editing and managing traffic schedules in robotic fleet management.
+4. [RMF Traffic Editor by open_rmf](https://github.com/open-rmf/rmf_traffic_editor)  
+   A vital tool for editing and managing traffic schedules in robotic fleet management.
 
 
 ## Table of Contents
