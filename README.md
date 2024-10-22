@@ -40,7 +40,7 @@ I would like to extend my gratitude to the following projects and repositories, 
 ### Prerequisites
 
 1. **Operating System**: Ubuntu 22.04 (Jammy)
-2. **ROS 2 Humble**: Follow the installation steps [here](#ros-2-humble-installation-for-ubuntu).
+2. **ROS 2 Humble**: Follow the installation steps [here](https://docs.ros.org/en/humble/Installation.html).
 3. **Colcon build system**: ROS 2 development tools like `colcon` are required.
 
 ### Step-by-Step Instructions
