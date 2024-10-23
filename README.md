@@ -48,7 +48,6 @@ I would like to extend my gratitude to the following projects and repositories, 
    sudo apt install ros-humble-cyclonedds
    sudo apt install ros-humble-rmf-fleet-msgs
    sudo apt install ros-humble-rmf*
-   sudo apt install ros-humble--ament-python
    sudo apt install ros-humble-ament-python
    sudo apt install ros-humble-ament-package 
    sudo apt install ros-humble-ament-pycodestyle 
