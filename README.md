@@ -23,6 +23,8 @@ I would like to extend my gratitude to the following projects and repositories, 
 4. [RMF Traffic Editor by open_rmf](https://github.com/open-rmf/rmf_traffic_editor)  
    A vital tool for editing and managing traffic schedules in robotic fleet management.
 
+5. [ROSCON_Workshop](https://github.com/open-rmf/roscon_workshop)
+   Providing code for Open-RMF workshop at ROSCon 2022 Kyoto.
 
 ## Table of Contents
 
@@ -107,11 +109,7 @@ Some robots will move to the goal like this:
 ![image](https://github.com/user-attachments/assets/7f59f51b-dda3-4bb1-8502-6bde016594a9)
 
 # Document
-
 **[ROSCon Open-RMF Workshop 2022](https://docs.google.com/presentation/d/1Lt79xlM_XkITmURSbI5hkAAgnjSX8dHKBkgvz3x3Uzw/edit#slide=id.g117b0289c78_0_0)**
-```url
-
-```
 
 # Conclusion
 
@@ -119,8 +117,5 @@ The Robot Fleet Management System project serves as a foundational framework for
 With this system, various environments like warehouses and factories can benefit from automated robotic fleets. 
 It provides scalability, flexibility, and adaptability through the use of open-source tools, and offers room for further improvements, including dynamic task allocation and real-world deployment.
 By leveraging the contributions from TurtleBot3 and Open RMF, the system is designed for both research and practical application. 
-
-
-
 
 
