@@ -75,6 +75,17 @@ I would like to extend my gratitude to the following projects and repositories, 
    cd <your_ws>
    colcon build
    ```
+**Add the following environment variable to your terminal (you can also add this to your ~/.bashrc)***
+   ```bash
+   export SPAWN_ROBOT=3
+   export TURTLEBOT3_MODEL=burger
+   ```
 
-
+## Getting Started
+**Starting gazebo and navigation stack for simulate**
+   ```bash
+      ros2 launch turtlebot3_bringup simulator_launch.launch.py 
+   ```
+   result after run this launch file 
+![Screenshot from 2024-10-23 09-20-24](https://github.com/user-attachments/assets/fc5708fd-d95f-4f56-8fac-0d11ddfabebd)
 
