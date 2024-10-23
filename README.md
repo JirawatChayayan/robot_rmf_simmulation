@@ -98,5 +98,10 @@ result after run this launch file
 ![image](https://github.com/user-attachments/assets/01fa95ef-4712-49b6-ba5d-2335a8f440bb)
 
 **Starting control robot by RMF panel [here](https://open-rmf.github.io/rmf-panel-js/)**
+![image](https://github.com/user-attachments/assets/80ca5381-2109-4fb9-bd51-f22ccc72ca12)
+
+Please try to play with Loop mode for Derivery mode not yet implement Pls try to following this image for testing
+![image](https://github.com/user-attachments/assets/9bd7683a-b3c0-4686-9920-b41671a0a8f8)
+
 
 
