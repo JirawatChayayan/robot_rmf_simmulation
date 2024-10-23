@@ -82,10 +82,21 @@ I would like to extend my gratitude to the following projects and repositories, 
    ```
 
 ## Getting Started
+
 **Starting gazebo and navigation stack for simulate**
    ```bash
-      ros2 launch turtlebot3_bringup simulator_launch.launch.py 
+   ros2 launch turtlebot3_bringup simulator_launch.launch.py 
    ```
-   result after run this launch file 
+result after run this launch file 
 ![Screenshot from 2024-10-23 09-20-24](https://github.com/user-attachments/assets/fc5708fd-d95f-4f56-8fac-0d11ddfabebd)
+
+**Starting freefleet server and robot management fleet**
+   ```bash
+   ros2 launch turtlebot3_bringup freefleet_and_rmf_server.launch.xml
+   ```
+result after run this launch file 
+![image](https://github.com/user-attachments/assets/01fa95ef-4712-49b6-ba5d-2335a8f440bb)
+
+**Starting control robot by RMF panel [here](https://open-rmf.github.io/rmf-panel-js/)**
+
 
