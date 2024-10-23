@@ -100,11 +100,10 @@ result after run this launch file
 
 # Usage
 
-Please try to play with Loop mode for Derivery mode not yet implement Pls try to following this image for testing
-![image](https://github.com/user-attachments/assets/e84e8b47-3b1c-4307-bc1e-bb1e638ef220)
+Please try to play with __Loop mode__ for delivery tasks (delivery mode is not yet implemented). Follow the image below for testing:
+![image](https://github.com/user-attachments/assets/8cc357b8-4088-498e-b877-0abfb6b55b79)
 
-
-some robot will move to goal like this 
+Some robots will move to the goal like this:
 ![image](https://github.com/user-attachments/assets/7f59f51b-dda3-4bb1-8502-6bde016594a9)
 
 # Document
