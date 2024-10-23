@@ -108,9 +108,9 @@ Some robots will move to the goal like this:
 
 # Document
 
-**ROSCon Open-RMF Workshop 2022**
+**[ROSCon Open-RMF Workshop 2022](https://docs.google.com/presentation/d/1Lt79xlM_XkITmURSbI5hkAAgnjSX8dHKBkgvz3x3Uzw/edit#slide=id.g117b0289c78_0_0)**
 ```url
-https://docs.google.com/presentation/d/1Lt79xlM_XkITmURSbI5hkAAgnjSX8dHKBkgvz3x3Uzw/edit#slide=id.g117b0289c78_0_0
+
 ```
 
 # Conclusion
