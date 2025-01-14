@@ -1,0 +1,115 @@
+building_name: world_map
+levels:
+  L1:
+    lanes:
+    - - 0
+      - 1
+      - {speed_limit: 0}
+    - - 1
+      - 0
+      - {speed_limit: 0}
+    - - 1
+      - 2
+      - {speed_limit: 0}
+    - - 2
+      - 1
+      - {speed_limit: 0}
+    - - 2
+      - 3
+      - {door_name: Door1, speed_limit: 0}
+    - - 3
+      - 2
+      - {door_name: Door1, speed_limit: 0}
+    - - 3
+      - 4
+      - {speed_limit: 0}
+    - - 4
+      - 3
+      - {speed_limit: 0}
+    - - 4
+      - 5
+      - {door_name: Door2, speed_limit: 0}
+    - - 5
+      - 4
+      - {door_name: Door2, speed_limit: 0}
+    - - 5
+      - 6
+      - {speed_limit: 0}
+    - - 6
+      - 5
+      - {speed_limit: 0}
+    - - 6
+      - 7
+      - {door_name: Door3, speed_limit: 0}
+    - - 7
+      - 6
+      - {door_name: Door3, speed_limit: 0}
+    - - 7
+      - 8
+      - {speed_limit: 0}
+    - - 8
+      - 7
+      - {speed_limit: 0}
+    - - 8
+      - 9
+      - {speed_limit: 0}
+    - - 9
+      - 8
+      - {speed_limit: 0}
+    - - 9
+      - 1
+      - {speed_limit: 0}
+    - - 1
+      - 9
+      - {speed_limit: 0}
+    - - 1
+      - 0
+      - {speed_limit: 0}
+    - - 0
+      - 1
+      - {speed_limit: 0}
+    - - 9
+      - 10
+      - {speed_limit: 0}
+    - - 10
+      - 9
+      - {speed_limit: 0}
+    vertices:
+    - - 0.8819067827536076
+      - -2.763859567971768
+      - {is_charger: true, is_parking_spot: true, name: home, spawn_robot_name: utac2,
+        spawn_robot_type: utac2}
+    - - 1.4420461970539855
+      - -2.7890326928468854
+      - {is_holding_point: true, is_passthrough_point: true, name: a}
+    - - 1.4797809604806462
+      - -1.4359149210943036
+      - {is_holding_point: true, is_parking_spot: true, is_passthrough_point: false,
+        name: c}
+    - - 4.903425639040632
+      - -1.42335328254276
+      - {is_holding_point: true, is_parking_spot: true, is_passthrough_point: false,
+        name: d}
+    - - 4.941210250239323
+      - -2.285570195344543
+      - {is_holding_point: true, is_parking_spot: true, is_passthrough_point: false,
+        name: e}
+    - - 1.4231538914546402
+      - -2.228893278546507
+      - {is_holding_point: true, is_passthrough_point: true, name: b}
+    - - 1.4231538914546402
+      - -3.3176683152243442
+      - {is_holding_point: true, is_passthrough_point: true, name: f}
+    - - 4.9601025558386675
+      - -3.3491721071472633
+      - {is_holding_point: true, is_parking_spot: true, name: g}
+    - - 4.9601025558386675
+      - -4.242842964099935
+      - {is_holding_point: true, is_parking_spot: true, name: i}
+    - - 1.429434710730412
+      - -4.2239506585005895
+      - {is_holding_point: true, is_parking_spot: true, name: h}
+    - - 3.1432011131195723
+      - -4.8229713349843175
+      - {is_charger: true, is_parking_spot: true, name: home2, spawn_robot_name: utac3,
+        spawn_robot_type: utac3}

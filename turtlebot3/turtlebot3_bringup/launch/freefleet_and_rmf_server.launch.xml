@@ -1,0 +1,7 @@
+<?xml version='1.0' ?>
+
+<launch> 
+      <include file="$(find-pkg-share turtlebot3_bringup)/launch/ff_server.launch.xml"/>
+      <include file="$(find-pkg-share rmf_setup)/launch/robot_rmf.launch.xml"/>
+</launch>
+
