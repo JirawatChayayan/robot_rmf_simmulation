@@ -63,6 +63,7 @@ I would like to extend my gratitude to the following projects and repositories, 
    pip3 install Flask-SocketIO==4.3.2
    pip3 install websockets==13.1
    pip3 install werkzeug==2.0.2
+   pip install setuptools==58.2.0
    ```
 **Clone this repository to your workspace**
    ```bash
