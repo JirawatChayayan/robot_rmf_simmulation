@@ -54,7 +54,10 @@ I would like to extend my gratitude to the following projects and repositories, 
    sudo apt install ros-humble-rmf*
    sudo apt install ros-humble-ament-python
    sudo apt install ros-humble-ament-package 
-   sudo apt install ros-humble-ament-pycodestyle 
+   sudo apt install ros-humble-ament-pycodestyle
+   sudo apt install ros-humble-nav2-bringup
+   sudo apt install ros-humble-navigation2
+   sudo apt install ros-humble-gazebo-ros-pkgs
    ```
 **Install python package as below**
    ```bash
