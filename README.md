@@ -58,6 +58,9 @@ I would like to extend my gratitude to the following projects and repositories, 
    sudo apt install ros-humble-nav2-bringup
    sudo apt install ros-humble-navigation2
    sudo apt install ros-humble-gazebo-ros-pkgs
+   python3 -m pip uninstall shapely
+   sudo apt install python3-shapely
+
    ```
 **Install python package as below**
    ```bash
